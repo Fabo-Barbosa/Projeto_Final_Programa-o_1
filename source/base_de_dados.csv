@@ -1,0 +1,51 @@
+nome,tipo_de_animal,idade,descrição,data_e_hora,preço
+Luna,Cachorro,3,Check-up anual,2024-10-15 09:30,150.00
+Tom,Gato,5,Vacinação anti-rábica,2024-10-15 11:00,80.00
+Bella,Cachorro,2,Exame de sangue,2024-10-16 08:45,120.00
+Max,Coelho,1,Consulta de rotina,2024-10-16 10:00,100.00
+Zara,Cachorro,7,Vacinação contra cinomose,2024-10-17 14:15,90.00
+Rex,Cachorro,4,Limpeza dental,2024-10-17 15:30,200.00
+Simba,Gato,3,Cirurgia de castração,2024-10-18 13:00,350.00
+Mimi,Gato,2,Check-up geral,2024-10-19 09:00,150.00
+Bingo,Cachorro,6,Tratamento para alergia,2024-10-19 10:30,180.00
+Tico,Papagaio,4,Exame de bico e penas,2024-10-20 12:00,75.00
+Bolinha,Cachorro,8,Consulta geriátrica,2024-10-20 13:45,130.00
+Lili,Cachorro,1,Vacinação polivalente,2024-10-21 09:15,95.00
+Nina,Gato,2,Tratamento de infecção de ouvido,2024-10-21 10:30,160.00
+Thor,Ferret,2,Exame de rotina,2024-10-21 11:45,110.00
+Fiona,Cachorro,5,Raspagem dentária,2024-10-22 14:00,250.00
+Kiara,Cachorro,7,Cirurgia de remoção de tumor,2024-10-22 15:30,600.00
+Romeo,Gato,4,Vacinação antirrábica,2024-10-23 10:00,80.00
+Malu,Coelho,3,Consulta de rotina,2024-10-23 11:30,100.00
+Bob,Cachorro,6,Exame ortopédico,2024-10-24 09:30,220.00
+Felix,Gato,5,Consulta dermatológica,2024-10-24 10:45,180.00
+Lucky,Hamster,1,Exame de rotina,2024-10-24 12:00,70.00
+Rafael,Tartaruga,15,Check-up geral,2024-10-25 14:00,150.00
+Tina,Gato,2,Cirurgia de esterilização,2024-10-25 15:15,300.00
+Rocky,Cachorro,3,Consulta para tosse,2024-10-26 09:00,130.00
+Bela,Cachorro,4,Vacinação polivalente,2024-10-26 10:30,95.00
+Snow,Gato,3,Exame de sangue,2024-10-26 11:45,120.00
+Zeus,Cachorro,5,Cirurgia ortopédica,2024-10-27 13:00,550.00
+Mel,Cachorro,2,Vacinação para gripe canina,2024-10-27 14:30,100.00
+Freddy,Ferret,3,Consulta de rotina,2024-10-28 09:15,110.00
+Nico,Pássaro,4,Exame de asas,2024-10-28 10:30,75.00
+Fofinho,Gato,1,Consulta para diarréia,2024-10-28 11:45,140.00
+Bruno,Cachorro,4,Tratamento dermatológico,2024-10-29 09:00,180.00
+Susi,Cachorro,3,Vacinação anti-pulgas,2024-10-29 10:30,90.00
+Leia,Gato,2,Exame oftalmológico,2024-10-29 12:00,170.00
+Tobias,Cachorro,5,Consulta geriátrica,2024-10-30 14:00,130.00
+Milka,Gato,1,Cirurgia de castração,2024-10-30 15:30,350.00
+Bolota,Cachorro,7,Tratamento para artrite,2024-11-01 09:30,200.00
+Chico,Papagaio,6,Exame de bico,2024-11-01 11:00,75.00
+Lulu,Cachorro,2,Vacinação de leptospirose,2024-11-01 12:30,85.00
+Dudu,Gato,4,Exame neurológico,2024-11-02 09:00,210.00
+Pipoca,Coelho,3,Consulta de rotina,2024-11-02 10:30,100.00
+Pretinha,Cachorro,1,Vacinação contra hepatite canina,2024-11-02 12:00,95.00
+Biscoito,Gato,2,Cirurgia de retirada de cálculo,2024-11-03 09:15,400.00
+Tommy,Cachorro,3,Consulta para alergia alimentar,2024-11-03 10:45,140.00
+Fred,Cachorro,5,Exame para controle de peso,2024-11-04 09:00,120.00
+Maya,Gato,3,Vacinação polivalente,2024-11-04 10:15,95.00
+Chanel,Cachorro,2,Cirurgia de castração,2024-11-04 12:30,350.00
+Nina,Cachorro,6,Exame de displasia coxofemoral,2024-11-05 09:00,230.00
+Pingo,Gato,2,Tratamento para infecção urinária,2024-11-05 10:30,160.00
+Bindu,Cavalo,6,Tradução,2024-12-15 16:00,70.00
